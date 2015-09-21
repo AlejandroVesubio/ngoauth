@@ -1,0 +1,716 @@
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \000032;
+  }
+}
+
+* {
+  -webkit-box-sizing: border-box;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \000036;
+  }
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000312;
+  }
+}
+
+body {
+  font: 17px/1.5 "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  background: white;
+  margin: 0;
+  color: #33333d;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000321;
+  }
+}
+
+a {
+  color: #000;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000325;
+  }
+}
+
+#logo a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000330;
+  }
+}
+
+#logo .token {
+  font-size: 30px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000334;
+  }
+}
+
+section {
+  min-height: 50%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000338;
+  }
+}
+
+section:not(:last-child) {
+  border-bottom: 1px solid #eee;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000342;
+  }
+}
+
+section:not(#top) {
+  padding: 150px 100px;
+  text-align: center;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000347;
+  }
+}
+
+pre {
+  background: white;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  padding: 25px;
+  font-size: .9em;
+  font-family: monospace;
+  overflow-x: auto;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000357;
+  }
+}
+
+xmp {
+  margin: 0;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000361;
+  }
+}
+
+.content img {
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 1em;
+  margin: 2em 0;
+  border-radius: 5px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000369;
+  }
+}
+
+p {
+  font-weight: 300;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000374;
+  }
+}
+
+code {
+  font-family: monospace;
+  font-size: .9em;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000379;
+  }
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 0em;
+  padding-top: 1em;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000385;
+  }
+}
+
+h1:not(:first-child) {
+  margin-top: 50px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000389;
+  }
+}
+
+h2 {
+  margin-top: 80px;
+  font-size: 1.2em;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000394;
+  }
+}
+
+h3 {
+  margin-top: 40px;
+  font-size: 1em;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \0000399;
+  }
+}
+
+ul li {
+  padding: 0.1em 0;
+  /*font-size: .8em;*/
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003104;
+  }
+}
+
+section:nth-child(2n) {
+  background: #fdfdfd;
+  box-shadow: inset 0 1px 0 0 white;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003109;
+  }
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 750px;
+  text-align: left;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003115;
+  }
+}
+
+#top {
+  height: 100%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003119;
+  }
+}
+
+#heading {
+  -webkit-user-select: none;
+  position: absolute;
+  top: 50%;
+  margin-top: -150px;
+  text-align: center;
+  width: 100%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003128;
+  }
+}
+
+#logo {
+  font: 60px 'Italiana', sans-serif;
+  text-transform: lowercase;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003133;
+  }
+}
+
+#tagline {
+  margin-top: 30px;
+  font-size: 16px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003138;
+  }
+}
+
+.github-img {
+  width: 100px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003142;
+  }
+}
+
+#menu {
+  position: fixed;
+  top: 35px;
+  right: 30px;
+  z-index: 50;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003149;
+  }
+}
+
+#menu:hover ul {
+  display: block;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003153;
+  }
+}
+
+#menu a {
+  color: inherit;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003157;
+  }
+}
+
+#menu a#toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 2px;
+  border: 1px solid transparent;
+  z-index: 5;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003168;
+  }
+}
+
+#menu:hover a#toggle {
+  border: 1px solid #efefef;
+  border-bottom: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003173;
+  }
+}
+
+#menu i.icon-menu {
+  font-size: 1.5em;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003177;
+  }
+}
+
+#menu ul {
+  display: none;
+  position: absolute;
+  width: 200px;
+  top: 2.8em;
+  right: 0;
+  margin: 0;
+  border: 1px solid #efefef;
+  border-bottom: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 25px;
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 1px 3px 0 #eee;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003192;
+  }
+}
+
+#menu ul li {
+  list-style: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003196;
+  }
+}
+
+#menu ul li a {
+  display: block;
+  text-decoration: none;
+  padding: 3px 0;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003202;
+  }
+}
+
+#menu ul li a:hover {
+  text-decoration: underline;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003206;
+  }
+}
+
+ul.task-list {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003211;
+  }
+}
+
+ul.task-list .task-list-item-checkbox {
+  margin-right: 10px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003215;
+  }
+}
+
+.oauth span {
+  text-decoration: none;
+  background: #239cbb;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  min-height: 35px;
+  width: auto;
+  display: inline-block;
+  padding: 0.9em 1.37em;
+  cursor: pointer;
+  color: #fff !important;
+  font-size: 12px;
+  line-height: 13px;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-shadow: none;
+  border-radius: 0.2em;
+  border: rgba(0, 0, 0, 0.05) 0.1em solid;
+  transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+  }
+
+  line {
+    font-family: \00003239;
+  }
+}
+
+.oauth span:hover {
+  background: #01cf9e;
+  color: #fff;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 700px) {
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+    }
+
+    line {
+      font-family: \00003246;
+    }
+}
+
+  section:not(#top) {
+    padding: 50px 25px;
+  }
+
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+    }
+
+    line {
+      font-family: \00003250;
+    }
+}
+
+  #heading {
+    margin-top: -75px;
+  }
+
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+    }
+
+    line {
+      font-family: \00003254;
+    }
+}
+
+  #logo {
+    font-size: 75px;
+  }
+
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+    }
+
+    line {
+      font-family: \00003258;
+    }
+}
+
+  #tagline {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+@media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/D\:\/USUARIO\/Documentos\/pruebas\/oauth-ng-demo-master\/app\/styles\/main\.scss;
+    }
+
+    line {
+      font-family: \00003264;
+    }
+}
+
+  body {
+    font-size: 13px;
+  }
+}

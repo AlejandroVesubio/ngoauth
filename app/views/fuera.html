@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+Estás fuera
+<span class="oauth">
+  <span><a href="#" class="logged-out" ng-show="show=='logged-out'" ng-click="login()">{{text}}</a></span>
+  <span><a href="#" class="logged-in" ng-show="show=='logged-in'"  ng-click="logout()">Logout {{profile.email}}</a></span>
+  <span><a href="#" class="denied" ng-show="show=='denied'"     ng-click="login()">Access denied. Try again.</a></span>
+</span>
+
+
+</body>
+</html>
